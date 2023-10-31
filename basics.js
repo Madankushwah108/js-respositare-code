@@ -6,3 +6,5 @@ let accountState;
 
 /*count = not allowed 2 times*/
 console.table([AccountId, accountCity, accountName, accountPassword, accountState]);
+
+/*
